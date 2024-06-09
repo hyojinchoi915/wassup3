@@ -1,4 +1,4 @@
-## *데이터를 기반으로 기획하는* 서비스 기획자, HYOJIN CHOI의 GITHUB에 오신 것을 환영합니다.
+## *<span style="color:lightblue>데이터를 기반으로 기획하는* 서비스 기획자, HYOJIN CHOI</span>의 GITHUB에 오신 것을 환영합니다.
 ![환영](환영.jpg)
 ###### 2024.05 ~ **ESTsoft WASSUP AI 서비스기획자 3기 부트캠프** 참여 중
 ___
@@ -21,13 +21,10 @@ ___
 - **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0915thehyojin@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HYOJINCHOI915)
 ___
-데이터를 기반으로 기획하며
-사용자 관점으로 생각하고
-AI 구조에 대한 이해를 가지고 있는
-서비스 기획자로 거듭나는 것이 목표입니다.
+<span style="color:blue">데이터를 기반으로 기획</span>하며  <span style="color:green">사용자 관점으로 생각</span>하고  <span style="pink">AI 구조에 대한 기술적 이해를 통해 소통</span>하는 서비스 기획자로 거듭나는 것이 목표입니다.
 ![끝](끝났습니다.jpg)
 
-
+<img src="끝났습니다.jpg" alt="이미지 설명" width="300" height="200">
 
 
 
