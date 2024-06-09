@@ -21,8 +21,10 @@ ___
 - **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0915thehyojin@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HYOJINCHOI915)
 ___
-<span style="color:blue">데이터를 기반으로 기획</span>하며  <span style="color:green">사용자 관점으로 생각</span>하고  <span style="pink">AI 구조에 대한 기술적 이해를 통해 소통</span>하는 서비스 기획자로 거듭나는 것이 목표입니다.
-<p>$\bf{\large{\color{#6580DD}두꺼운\ 글씨체,\ 큰글씨,\ 파란색}}$데이터를 기반으로 기획</p>하
+<p>$\bf{\large{\color{#6580DD}데이터를\ 기반으로\ 기획}}$</p>하며<br>
+<p>$\bf{\large{\color{#489675}사용자\ 관점에서\ 생각}}$</p>하고<br>
+<p>$\bf{\large{\color{#E46EE6}AI\ 구조에\ 대한\ 기술적\ 이해를\ 통해}}$</p>소통하는<br>
+서비스 기획자로 거듭나는 것이 목표입니다.
 <img src="끝났습니다.jpg" width="300" height="200">
 
 
