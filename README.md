@@ -1,4 +1,4 @@
-## <p>$\bf{\large{\color{#4F56F3}데이터를\ 기반으로\ 기획하는}}$</p> 서비스 기획자, <p>$\bf{\large{\color{#4F56F3}HYOJIN\ CHOI}}$</p>의 GITHUB에 오신 것을 환영합니다.
+## <p>$\huge{\large{\color{#4F56F3}데이터를\ 기반으로\ 기획하는\ 서비스 기획자\ HYOJIN\ CHOI}}$의 GITHUB에 오신 것을 환영합니다.</p>
 ![환영](환영.jpg)
 ###### 2024.05 ~ **ESTsoft WASSUP AI 서비스기획자 3기 부트캠프** 참여 중
 ___
@@ -21,9 +21,9 @@ ___
 - **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:0915thehyojin@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HYOJINCHOI915)
 ___
-<p>$\bf{\large{\color{#6580DD}데이터를\ 기반으로\ 기획}}$</p>하며<br>
-<p>$\bf{\large{\color{#489675}사용자\ 관점에서\ 생각}}$</p>하고<br>
-<p>$\bf{\large{\color{#E46EE6}AI\ 구조에\ 대한\ 기술적\ 이해를\ 통해}}$</p>소통하는<br>
+<p>$\bf{\large{\color{#6580DD}데이터를\ 기반으로\ 기획}}$하며</p><br>
+<p>$\bf{\large{\color{#489675}사용자\ 관점에서\ 생각}}$하고</p><br>
+<p>$\bf{\large{\color{#E46EE6}AI\ 구조에\ 대한\ 기술적\ 이해를\ 통해}}소통하는$</p><br>
 서비스 기획자로 거듭나는 것이 목표입니다.
 <img src="끝났습니다.jpg" width="300" height="200">
 
