@@ -1,4 +1,4 @@
-## *<p>$\bf{\large{\color{#4F56F3}데이터를\ 기반으로\ 기획하는}}$</p>* 서비스 기획자, <p>$\bf{\large{\color{#4F56F3}HYOJIN\ CHOI}}$</p>의 GITHUB에 오신 것을 환영합니다.
+## <p>$\bf{\large{\color{#4F56F3}데이터를\ 기반으로\ 기획하는}}$</p> 서비스 기획자, <p>$\bf{\large{\color{#4F56F3}HYOJIN\ CHOI}}$</p>의 GITHUB에 오신 것을 환영합니다.
 ![환영](환영.jpg)
 ###### 2024.05 ~ **ESTsoft WASSUP AI 서비스기획자 3기 부트캠프** 참여 중
 ___
